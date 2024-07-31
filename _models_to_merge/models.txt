@@ -1,0 +1,5 @@
+create the '98kp_to_mask_V2.onnx'
+
+how to create that onnx model look at folder '_create_98kp_to_mask_onnx'
+
+you need '98kp_to_mask_V2.onnx' and 'kps_student.onnx' models if you want to combine them to one model yourself
