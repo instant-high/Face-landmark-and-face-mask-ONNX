@@ -10,5 +10,4 @@ I just created a face masker onnx model and combined it with the kp-detector mod
 
 Model outputs are score, face mask and kepoints
 
-https://github.com/user-attachments/assets/42c55f1f-b2ee-4314-81cb-a0d9ef6f93fd
 
