@@ -1,0 +1,1 @@
+place '98kp_to_mask_V2.onnx' and 'kps_student.onnx' in same folder as 'merge_ir_opset.py' script
