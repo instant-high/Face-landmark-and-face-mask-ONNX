@@ -5,7 +5,7 @@ Original kp-detector model taken from Peppa_Pig_Face_Landmark
 
 https://github.com/610265158/Peppa_Pig_Face_Landmark
 
-I just created a face masker onnx model and combined it with the kp-detector model.
+I only created a face masker onnx model and combined it with the kp-detector model.
 
 Model outputs are score, face mask and kepoints
 
