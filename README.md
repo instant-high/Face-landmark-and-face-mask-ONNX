@@ -7,7 +7,14 @@ https://github.com/610265158/Peppa_Pig_Face_Landmark
 
 I just created a face masker onnx model and combined it with the kp-detector model.
 
-
 Model outputs are score, face mask and kepoints
+
+
+
+https://github.com/user-attachments/assets/e32bec14-6b4e-4a8b-8c05-5b2ee78caf85
+
+
+
+
 
 
