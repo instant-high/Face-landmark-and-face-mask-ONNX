@@ -1,0 +1,2 @@
+'98kp_masker.onnx' is the already combined kp-detector with additional face mask output
+image input size is 256x256
